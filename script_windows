@@ -1,0 +1,8 @@
+g++ -std=c++11 main.cpp httpparser.cpp
+@echo off
+echo "no input"
+a.exe
+echo "request" 
+a.exe request/example_http_request.txt
+echo "response"
+a.exe response/example_http_response.txt
