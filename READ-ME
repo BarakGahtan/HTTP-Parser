@@ -1,0 +1,10 @@
+If we have * in "options" , then we will print only "*", becuase there is no server.
+If there is only "/" in the URL which belongs to the server, then we will print only the server.
+
+I assumed that the input files are valid.
+Note: 
+  I ran it on a mac computer.
+  
+should run on unix based platforms with httpparser_script.
+./httpparser_script < input file >
+
